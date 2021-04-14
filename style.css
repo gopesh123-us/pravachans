@@ -70,6 +70,13 @@ body {
   }
 }
 
+.music-year {
+  display: block;
+  text-align: right;
+  font-size: 16px;
+  color: rgb(182, 179, 179);
+}
+
 .music-player {
   padding: 30px;
 }
