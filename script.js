@@ -10,24 +10,24 @@ const cover = document.querySelector('#cover');
 
 //song titles
 const songs = [
-	'1-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'2-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'3-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'4-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'5-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'6-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'7-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'8-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'9-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'10-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'11-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'12-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'13-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'14-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'15-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'16-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'17-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007',
-	'18-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2007'
+	'1-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'2-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'3-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'4-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'5-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'6-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'7-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'8-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'9-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'10-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'11-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'12-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'13-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'14-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'15-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'16-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'17-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008',
+	'18-Guruji - Swami Shivendra Puriji - Shrimad Bhagwat Katha Haridwar 2008'
 ];
 
 //keep track of songs
