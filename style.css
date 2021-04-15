@@ -74,6 +74,12 @@ body {
   padding: 30px;
 }
 
+@media(max-width: 991px) {
+  h1.music-player {
+    font-size: 2em;
+  }
+}
+
 .navigation {
   display: flex;
   align-items: center;
